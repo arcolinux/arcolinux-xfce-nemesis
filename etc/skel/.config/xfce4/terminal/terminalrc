@@ -31,4 +31,5 @@ DropdownWidth=69
 DropdownHeight=55
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 BackgroundDarkness=0.420000
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
 
