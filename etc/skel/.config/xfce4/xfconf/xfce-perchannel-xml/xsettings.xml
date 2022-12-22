@@ -24,8 +24,8 @@
     <property name="CanChangeAccels" type="empty"/>
     <property name="ColorPalette" type="empty"/>
     <property name="DialogsUseHeader" type="empty"/>
-    <property name="FontName" type="string" value="Noto Sans 10"/>
-    <property name="MonospaceFontName" type="string" value="Monospace 10"/>
+    <property name="FontName" type="string" value="Noto Sans 11"/>
+    <property name="MonospaceFontName" type="string" value="Monospace 11"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
@@ -36,7 +36,6 @@
     <property name="CursorThemeName" type="string" value="Bibata-Modern-Ice"/>
     <property name="CursorThemeSize" type="empty"/>
     <property name="DecorationLayout" type="empty"/>
-    <property name="DialogsUseHeader" type="empty"/>
     <property name="TitlebarMiddleClick" type="empty"/>
   </property>
   <property name="Gdk" type="empty">
