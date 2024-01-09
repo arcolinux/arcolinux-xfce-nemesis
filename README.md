@@ -1,1 +1,1 @@
-# ArcoLinux Xfce Nemesis Desktop Settings
+# ArcoLinux Xfce Desktop Settings

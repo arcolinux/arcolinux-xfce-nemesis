@@ -60,28 +60,22 @@ regex=false
 [action1]
 name=Web Search
 pattern=?
-command=exo-open --launch WebBrowser https://duckduckgo.com/?q=%u
+command=exo-open --launch WebBrowser https://google.com/?q=%u
 regex=false
 
 [action2]
-name=Search for Files
-pattern=-
-command=catfish --path=~ --start %s
-regex=false
-
-[action3]
 name=Wikipedia
 pattern=!w
 command=exo-open --launch WebBrowser https://en.wikipedia.org/wiki/%u
 regex=false
 
-[action4]
+[action3]
 name=Run in Terminal
 pattern=!
 command=exo-open --launch TerminalEmulator %s
 regex=false
 
-[action5]
+[action4]
 name=Open URI
 pattern=^(file|http|https):\\/\\/(.*)$
 command=exo-open \\0
